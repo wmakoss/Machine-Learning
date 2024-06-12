@@ -50,8 +50,6 @@ Code: [Ensemble](075Ensemble_Exercises.ipynb)
 
 :x: Exercise 1
 
-:x: Exercise 2
-
 <!-- Code: [SVM](065_SVM_Exercises.ipynb) -->
 
 ### NLP
